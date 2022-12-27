@@ -1,0 +1,21 @@
+*{
+   margin: 0px;
+   padding: 0px;
+   box-sizing: border-box;
+}
+
+.logo{
+    width: 10rem;
+    height: 10rem;
+    margin: 4rem;
+}
+
+
+
+.inputButton{
+    display: none;  
+}
+
+.tablePart{
+    margin: 1rem;
+}
