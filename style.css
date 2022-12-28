@@ -19,3 +19,11 @@
 .tablePart{
     margin: 1rem;
 }
+
+.infopart{
+    display: flex;
+}
+
+.popup{
+    display: none;
+}
